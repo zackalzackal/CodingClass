@@ -1,0 +1,14 @@
+C:\hjb\stringconcap\stringconcap\bin\Debug\net8.0\StringConcat.exe
+C:\hjb\stringconcap\stringconcap\bin\Debug\net8.0\StringConcat.deps.json
+C:\hjb\stringconcap\stringconcap\bin\Debug\net8.0\StringConcat.runtimeconfig.json
+C:\hjb\stringconcap\stringconcap\bin\Debug\net8.0\StringConcat.dll
+C:\hjb\stringconcap\stringconcap\bin\Debug\net8.0\StringConcat.pdb
+C:\hjb\stringconcap\stringconcap\obj\Debug\net8.0\StringConcat.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\stringconcap\stringconcap\obj\Debug\net8.0\StringConcat.AssemblyInfoInputs.cache
+C:\hjb\stringconcap\stringconcap\obj\Debug\net8.0\StringConcat.AssemblyInfo.cs
+C:\hjb\stringconcap\stringconcap\obj\Debug\net8.0\StringConcat.csproj.CoreCompileInputs.cache
+C:\hjb\stringconcap\stringconcap\obj\Debug\net8.0\StringConcat.dll
+C:\hjb\stringconcap\stringconcap\obj\Debug\net8.0\refint\StringConcat.dll
+C:\hjb\stringconcap\stringconcap\obj\Debug\net8.0\StringConcat.pdb
+C:\hjb\stringconcap\stringconcap\obj\Debug\net8.0\StringConcat.genruntimeconfig.cache
+C:\hjb\stringconcap\stringconcap\obj\Debug\net8.0\ref\StringConcat.dll

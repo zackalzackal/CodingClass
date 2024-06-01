@@ -1,0 +1,10 @@
+C:\hjb\Firstday\Firstday\obj\Debug\Button.csproj.AssemblyReference.cache
+C:\hjb\Firstday\Firstday\obj\Debug\Firstday.Form1.resources
+C:\hjb\Firstday\Firstday\obj\Debug\Firstday.Properties.Resources.resources
+C:\hjb\Firstday\Firstday\obj\Debug\Button.csproj.GenerateResource.cache
+C:\hjb\Firstday\Firstday\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\hjb\Firstday\Firstday\obj\Debug\Firstday.exe
+C:\hjb\Firstday\Firstday\obj\Debug\Firstday.pdb
+C:\hjb\Firstday\Firstday\bin\Debug\Firstday.exe.config
+C:\hjb\Firstday\Firstday\bin\Debug\Firstday.exe
+C:\hjb\Firstday\Firstday\bin\Debug\Firstday.pdb

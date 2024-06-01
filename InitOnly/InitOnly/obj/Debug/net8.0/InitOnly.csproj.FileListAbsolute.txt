@@ -1,0 +1,14 @@
+C:\hjb\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.exe
+C:\hjb\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.deps.json
+C:\hjb\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.runtimeconfig.json
+C:\hjb\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.dll
+C:\hjb\InitOnly\InitOnly\bin\Debug\net8.0\InitOnly.pdb
+C:\hjb\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.AssemblyInfoInputs.cache
+C:\hjb\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.AssemblyInfo.cs
+C:\hjb\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.csproj.CoreCompileInputs.cache
+C:\hjb\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.dll
+C:\hjb\InitOnly\InitOnly\obj\Debug\net8.0\refint\InitOnly.dll
+C:\hjb\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.pdb
+C:\hjb\InitOnly\InitOnly\obj\Debug\net8.0\InitOnly.genruntimeconfig.cache
+C:\hjb\InitOnly\InitOnly\obj\Debug\net8.0\ref\InitOnly.dll

@@ -1,0 +1,14 @@
+C:\hjb\SwitchJump\SwitchJump\obj\Debug\net8.0\SwitchJump.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\SwitchJump\SwitchJump\obj\Debug\net8.0\SwitchJump.AssemblyInfoInputs.cache
+C:\hjb\SwitchJump\SwitchJump\obj\Debug\net8.0\SwitchJump.AssemblyInfo.cs
+C:\hjb\SwitchJump\SwitchJump\obj\Debug\net8.0\SwitchJump.csproj.CoreCompileInputs.cache
+C:\hjb\SwitchJump\SwitchJump\bin\Debug\net8.0\SwitchJump.exe
+C:\hjb\SwitchJump\SwitchJump\bin\Debug\net8.0\SwitchJump.deps.json
+C:\hjb\SwitchJump\SwitchJump\bin\Debug\net8.0\SwitchJump.runtimeconfig.json
+C:\hjb\SwitchJump\SwitchJump\bin\Debug\net8.0\SwitchJump.dll
+C:\hjb\SwitchJump\SwitchJump\bin\Debug\net8.0\SwitchJump.pdb
+C:\hjb\SwitchJump\SwitchJump\obj\Debug\net8.0\SwitchJump.dll
+C:\hjb\SwitchJump\SwitchJump\obj\Debug\net8.0\refint\SwitchJump.dll
+C:\hjb\SwitchJump\SwitchJump\obj\Debug\net8.0\SwitchJump.pdb
+C:\hjb\SwitchJump\SwitchJump\obj\Debug\net8.0\SwitchJump.genruntimeconfig.cache
+C:\hjb\SwitchJump\SwitchJump\obj\Debug\net8.0\ref\SwitchJump.dll

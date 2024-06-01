@@ -1,0 +1,14 @@
+C:\hjb\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.AssemblyInfoInputs.cache
+C:\hjb\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.AssemblyInfo.cs
+C:\hjb\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.csproj.CoreCompileInputs.cache
+C:\hjb\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.exe
+C:\hjb\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.deps.json
+C:\hjb\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.runtimeconfig.json
+C:\hjb\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.dll
+C:\hjb\RecordComp\RecordComp\bin\Debug\net8.0\RecordComp.pdb
+C:\hjb\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.dll
+C:\hjb\RecordComp\RecordComp\obj\Debug\net8.0\refint\RecordComp.dll
+C:\hjb\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.pdb
+C:\hjb\RecordComp\RecordComp\obj\Debug\net8.0\RecordComp.genruntimeconfig.cache
+C:\hjb\RecordComp\RecordComp\obj\Debug\net8.0\ref\RecordComp.dll

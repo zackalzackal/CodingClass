@@ -1,0 +1,10 @@
+C:\hjb\Excel\Excel\bin\Debug\Excel.exe.config
+C:\hjb\Excel\Excel\bin\Debug\Excel.exe
+C:\hjb\Excel\Excel\bin\Debug\Excel.pdb
+C:\hjb\Excel\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+C:\hjb\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\hjb\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\hjb\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\hjb\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\hjb\Excel\Excel\obj\Debug\Excel.exe
+C:\hjb\Excel\Excel\obj\Debug\Excel.pdb

@@ -1,0 +1,14 @@
+C:\hjb\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.exe
+C:\hjb\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.deps.json
+C:\hjb\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.runtimeconfig.json
+C:\hjb\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.dll
+C:\hjb\SignedUnsigned\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.pdb
+C:\hjb\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.AssemblyInfoInputs.cache
+C:\hjb\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.AssemblyInfo.cs
+C:\hjb\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.csproj.CoreCompileInputs.cache
+C:\hjb\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.dll
+C:\hjb\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\refint\SignedUnsigned.dll
+C:\hjb\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.pdb
+C:\hjb\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.genruntimeconfig.cache
+C:\hjb\SignedUnsigned\SignedUnsigned\obj\Debug\net8.0\ref\SignedUnsigned.dll

@@ -1,0 +1,14 @@
+C:\hjb\AccesModifier\AccesModifier\obj\Debug\net8.0\AccesModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\AccesModifier\AccesModifier\obj\Debug\net8.0\AccesModifier.AssemblyInfoInputs.cache
+C:\hjb\AccesModifier\AccesModifier\obj\Debug\net8.0\AccesModifier.AssemblyInfo.cs
+C:\hjb\AccesModifier\AccesModifier\obj\Debug\net8.0\AccesModifier.csproj.CoreCompileInputs.cache
+C:\hjb\AccesModifier\AccesModifier\bin\Debug\net8.0\AccesModifier.exe
+C:\hjb\AccesModifier\AccesModifier\bin\Debug\net8.0\AccesModifier.deps.json
+C:\hjb\AccesModifier\AccesModifier\bin\Debug\net8.0\AccesModifier.runtimeconfig.json
+C:\hjb\AccesModifier\AccesModifier\bin\Debug\net8.0\AccesModifier.dll
+C:\hjb\AccesModifier\AccesModifier\bin\Debug\net8.0\AccesModifier.pdb
+C:\hjb\AccesModifier\AccesModifier\obj\Debug\net8.0\AccesModifier.dll
+C:\hjb\AccesModifier\AccesModifier\obj\Debug\net8.0\refint\AccesModifier.dll
+C:\hjb\AccesModifier\AccesModifier\obj\Debug\net8.0\AccesModifier.pdb
+C:\hjb\AccesModifier\AccesModifier\obj\Debug\net8.0\AccesModifier.genruntimeconfig.cache
+C:\hjb\AccesModifier\AccesModifier\obj\Debug\net8.0\ref\AccesModifier.dll

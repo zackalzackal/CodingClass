@@ -1,0 +1,14 @@
+C:\hjb\UsingList\UsingList\bin\Debug\net8.0\UsingList.exe
+C:\hjb\UsingList\UsingList\bin\Debug\net8.0\UsingList.deps.json
+C:\hjb\UsingList\UsingList\bin\Debug\net8.0\UsingList.runtimeconfig.json
+C:\hjb\UsingList\UsingList\bin\Debug\net8.0\UsingList.dll
+C:\hjb\UsingList\UsingList\bin\Debug\net8.0\UsingList.pdb
+C:\hjb\UsingList\UsingList\obj\Debug\net8.0\UsingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\UsingList\UsingList\obj\Debug\net8.0\UsingList.AssemblyInfoInputs.cache
+C:\hjb\UsingList\UsingList\obj\Debug\net8.0\UsingList.AssemblyInfo.cs
+C:\hjb\UsingList\UsingList\obj\Debug\net8.0\UsingList.csproj.CoreCompileInputs.cache
+C:\hjb\UsingList\UsingList\obj\Debug\net8.0\UsingList.dll
+C:\hjb\UsingList\UsingList\obj\Debug\net8.0\refint\UsingList.dll
+C:\hjb\UsingList\UsingList\obj\Debug\net8.0\UsingList.pdb
+C:\hjb\UsingList\UsingList\obj\Debug\net8.0\UsingList.genruntimeconfig.cache
+C:\hjb\UsingList\UsingList\obj\Debug\net8.0\ref\UsingList.dll

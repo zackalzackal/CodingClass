@@ -1,0 +1,14 @@
+C:\hjb\ToStringExam\ToStringExam\bin\Debug\net8.0\ToStringExam.exe
+C:\hjb\ToStringExam\ToStringExam\bin\Debug\net8.0\ToStringExam.deps.json
+C:\hjb\ToStringExam\ToStringExam\bin\Debug\net8.0\ToStringExam.runtimeconfig.json
+C:\hjb\ToStringExam\ToStringExam\bin\Debug\net8.0\ToStringExam.dll
+C:\hjb\ToStringExam\ToStringExam\bin\Debug\net8.0\ToStringExam.pdb
+C:\hjb\ToStringExam\ToStringExam\obj\Debug\net8.0\ToStringExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ToStringExam\ToStringExam\obj\Debug\net8.0\ToStringExam.AssemblyInfoInputs.cache
+C:\hjb\ToStringExam\ToStringExam\obj\Debug\net8.0\ToStringExam.AssemblyInfo.cs
+C:\hjb\ToStringExam\ToStringExam\obj\Debug\net8.0\ToStringExam.csproj.CoreCompileInputs.cache
+C:\hjb\ToStringExam\ToStringExam\obj\Debug\net8.0\ToStringExam.dll
+C:\hjb\ToStringExam\ToStringExam\obj\Debug\net8.0\refint\ToStringExam.dll
+C:\hjb\ToStringExam\ToStringExam\obj\Debug\net8.0\ToStringExam.pdb
+C:\hjb\ToStringExam\ToStringExam\obj\Debug\net8.0\ToStringExam.genruntimeconfig.cache
+C:\hjb\ToStringExam\ToStringExam\obj\Debug\net8.0\ref\ToStringExam.dll

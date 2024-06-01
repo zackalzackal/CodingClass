@@ -1,0 +1,14 @@
+C:\hjb\StaticField\StaticField\obj\Debug\net8.0\StaticField.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\StaticField\StaticField\obj\Debug\net8.0\StaticField.AssemblyInfoInputs.cache
+C:\hjb\StaticField\StaticField\obj\Debug\net8.0\StaticField.AssemblyInfo.cs
+C:\hjb\StaticField\StaticField\obj\Debug\net8.0\StaticField.csproj.CoreCompileInputs.cache
+C:\hjb\StaticField\StaticField\bin\Debug\net8.0\StaticField.exe
+C:\hjb\StaticField\StaticField\bin\Debug\net8.0\StaticField.deps.json
+C:\hjb\StaticField\StaticField\bin\Debug\net8.0\StaticField.runtimeconfig.json
+C:\hjb\StaticField\StaticField\bin\Debug\net8.0\StaticField.dll
+C:\hjb\StaticField\StaticField\bin\Debug\net8.0\StaticField.pdb
+C:\hjb\StaticField\StaticField\obj\Debug\net8.0\StaticField.dll
+C:\hjb\StaticField\StaticField\obj\Debug\net8.0\refint\StaticField.dll
+C:\hjb\StaticField\StaticField\obj\Debug\net8.0\StaticField.pdb
+C:\hjb\StaticField\StaticField\obj\Debug\net8.0\StaticField.genruntimeconfig.cache
+C:\hjb\StaticField\StaticField\obj\Debug\net8.0\ref\StaticField.dll

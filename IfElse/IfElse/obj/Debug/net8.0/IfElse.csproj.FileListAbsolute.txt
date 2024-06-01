@@ -1,0 +1,14 @@
+C:\hjb\IfElse\IfElse\obj\Debug\net8.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\IfElse\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfoInputs.cache
+C:\hjb\IfElse\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfo.cs
+C:\hjb\IfElse\IfElse\obj\Debug\net8.0\IfElse.csproj.CoreCompileInputs.cache
+C:\hjb\IfElse\IfElse\bin\Debug\net8.0\IfElse.exe
+C:\hjb\IfElse\IfElse\bin\Debug\net8.0\IfElse.deps.json
+C:\hjb\IfElse\IfElse\bin\Debug\net8.0\IfElse.runtimeconfig.json
+C:\hjb\IfElse\IfElse\bin\Debug\net8.0\IfElse.dll
+C:\hjb\IfElse\IfElse\bin\Debug\net8.0\IfElse.pdb
+C:\hjb\IfElse\IfElse\obj\Debug\net8.0\IfElse.dll
+C:\hjb\IfElse\IfElse\obj\Debug\net8.0\refint\IfElse.dll
+C:\hjb\IfElse\IfElse\obj\Debug\net8.0\IfElse.pdb
+C:\hjb\IfElse\IfElse\obj\Debug\net8.0\IfElse.genruntimeconfig.cache
+C:\hjb\IfElse\IfElse\obj\Debug\net8.0\ref\IfElse.dll

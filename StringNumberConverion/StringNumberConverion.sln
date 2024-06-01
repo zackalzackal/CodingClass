@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringNumberConverion", "StringNumberConverion\StringNumberConverion.csproj", "{E79CFF81-401E-4156-A0F4-F82BB21BDFDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E79CFF81-401E-4156-A0F4-F82BB21BDFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79CFF81-401E-4156-A0F4-F82BB21BDFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79CFF81-401E-4156-A0F4-F82BB21BDFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79CFF81-401E-4156-A0F4-F82BB21BDFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2B0053-07E4-4915-AC19-CA8ACA7EB775}
+	EndGlobalSection
+EndGlobal

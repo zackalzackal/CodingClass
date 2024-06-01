@@ -1,0 +1,14 @@
+C:\hjb\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.exe
+C:\hjb\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.deps.json
+C:\hjb\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.runtimeconfig.json
+C:\hjb\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.dll
+C:\hjb\StringFormatBasic\StringFormatBasic\bin\Debug\net8.0\StringFormatBasic.pdb
+C:\hjb\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.AssemblyInfoInputs.cache
+C:\hjb\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.AssemblyInfo.cs
+C:\hjb\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.csproj.CoreCompileInputs.cache
+C:\hjb\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.dll
+C:\hjb\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\refint\StringFormatBasic.dll
+C:\hjb\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.pdb
+C:\hjb\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\StringFormatBasic.genruntimeconfig.cache
+C:\hjb\StringFormatBasic\StringFormatBasic\obj\Debug\net8.0\ref\StringFormatBasic.dll

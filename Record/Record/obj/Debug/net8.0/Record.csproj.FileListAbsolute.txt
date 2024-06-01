@@ -1,0 +1,14 @@
+C:\hjb\Record\Record\bin\Debug\net8.0\Record.exe
+C:\hjb\Record\Record\bin\Debug\net8.0\Record.deps.json
+C:\hjb\Record\Record\bin\Debug\net8.0\Record.runtimeconfig.json
+C:\hjb\Record\Record\bin\Debug\net8.0\Record.dll
+C:\hjb\Record\Record\bin\Debug\net8.0\Record.pdb
+C:\hjb\Record\Record\obj\Debug\net8.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Record\Record\obj\Debug\net8.0\Record.AssemblyInfoInputs.cache
+C:\hjb\Record\Record\obj\Debug\net8.0\Record.AssemblyInfo.cs
+C:\hjb\Record\Record\obj\Debug\net8.0\Record.csproj.CoreCompileInputs.cache
+C:\hjb\Record\Record\obj\Debug\net8.0\Record.dll
+C:\hjb\Record\Record\obj\Debug\net8.0\refint\Record.dll
+C:\hjb\Record\Record\obj\Debug\net8.0\Record.pdb
+C:\hjb\Record\Record\obj\Debug\net8.0\Record.genruntimeconfig.cache
+C:\hjb\Record\Record\obj\Debug\net8.0\ref\Record.dll

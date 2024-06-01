@@ -1,0 +1,14 @@
+C:\hjb\InitalizingArray\InitalizingArray\bin\Debug\net8.0\InitalizingArray.exe
+C:\hjb\InitalizingArray\InitalizingArray\bin\Debug\net8.0\InitalizingArray.deps.json
+C:\hjb\InitalizingArray\InitalizingArray\bin\Debug\net8.0\InitalizingArray.runtimeconfig.json
+C:\hjb\InitalizingArray\InitalizingArray\bin\Debug\net8.0\InitalizingArray.dll
+C:\hjb\InitalizingArray\InitalizingArray\bin\Debug\net8.0\InitalizingArray.pdb
+C:\hjb\InitalizingArray\InitalizingArray\obj\Debug\net8.0\InitalizingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\InitalizingArray\InitalizingArray\obj\Debug\net8.0\InitalizingArray.AssemblyInfoInputs.cache
+C:\hjb\InitalizingArray\InitalizingArray\obj\Debug\net8.0\InitalizingArray.AssemblyInfo.cs
+C:\hjb\InitalizingArray\InitalizingArray\obj\Debug\net8.0\InitalizingArray.csproj.CoreCompileInputs.cache
+C:\hjb\InitalizingArray\InitalizingArray\obj\Debug\net8.0\InitalizingArray.dll
+C:\hjb\InitalizingArray\InitalizingArray\obj\Debug\net8.0\refint\InitalizingArray.dll
+C:\hjb\InitalizingArray\InitalizingArray\obj\Debug\net8.0\InitalizingArray.pdb
+C:\hjb\InitalizingArray\InitalizingArray\obj\Debug\net8.0\InitalizingArray.genruntimeconfig.cache
+C:\hjb\InitalizingArray\InitalizingArray\obj\Debug\net8.0\ref\InitalizingArray.dll

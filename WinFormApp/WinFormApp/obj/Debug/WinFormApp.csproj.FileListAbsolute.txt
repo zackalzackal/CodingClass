@@ -1,0 +1,10 @@
+C:\hjb\WinFormApp\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\hjb\WinFormApp\WinFormApp\bin\Debug\WinFormApp.exe
+C:\hjb\WinFormApp\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\hjb\WinFormApp\WinFormApp\obj\Debug\WinFormApp.csproj.AssemblyReference.cache
+C:\hjb\WinFormApp\WinFormApp\obj\Debug\WinFormApp.Form1.resources
+C:\hjb\WinFormApp\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\hjb\WinFormApp\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.cache
+C:\hjb\WinFormApp\WinFormApp\obj\Debug\WinFormApp.csproj.CoreCompileInputs.cache
+C:\hjb\WinFormApp\WinFormApp\obj\Debug\WinFormApp.exe
+C:\hjb\WinFormApp\WinFormApp\obj\Debug\WinFormApp.pdb

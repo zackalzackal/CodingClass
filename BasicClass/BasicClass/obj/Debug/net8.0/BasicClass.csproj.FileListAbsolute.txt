@@ -1,0 +1,14 @@
+C:\hjb\BasicClass\BasicClass\bin\Debug\net8.0\BasicClass.exe
+C:\hjb\BasicClass\BasicClass\bin\Debug\net8.0\BasicClass.deps.json
+C:\hjb\BasicClass\BasicClass\bin\Debug\net8.0\BasicClass.runtimeconfig.json
+C:\hjb\BasicClass\BasicClass\bin\Debug\net8.0\BasicClass.dll
+C:\hjb\BasicClass\BasicClass\bin\Debug\net8.0\BasicClass.pdb
+C:\hjb\BasicClass\BasicClass\obj\Debug\net8.0\BasicClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\BasicClass\BasicClass\obj\Debug\net8.0\BasicClass.AssemblyInfoInputs.cache
+C:\hjb\BasicClass\BasicClass\obj\Debug\net8.0\BasicClass.AssemblyInfo.cs
+C:\hjb\BasicClass\BasicClass\obj\Debug\net8.0\BasicClass.csproj.CoreCompileInputs.cache
+C:\hjb\BasicClass\BasicClass\obj\Debug\net8.0\BasicClass.dll
+C:\hjb\BasicClass\BasicClass\obj\Debug\net8.0\refint\BasicClass.dll
+C:\hjb\BasicClass\BasicClass\obj\Debug\net8.0\BasicClass.pdb
+C:\hjb\BasicClass\BasicClass\obj\Debug\net8.0\BasicClass.genruntimeconfig.cache
+C:\hjb\BasicClass\BasicClass\obj\Debug\net8.0\ref\BasicClass.dll

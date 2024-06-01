@@ -1,0 +1,14 @@
+C:\hjb\FloatCOnversion\FloatCOnversion\bin\Debug\net8.0\FloatCOnversion.exe
+C:\hjb\FloatCOnversion\FloatCOnversion\bin\Debug\net8.0\FloatCOnversion.deps.json
+C:\hjb\FloatCOnversion\FloatCOnversion\bin\Debug\net8.0\FloatCOnversion.runtimeconfig.json
+C:\hjb\FloatCOnversion\FloatCOnversion\bin\Debug\net8.0\FloatCOnversion.dll
+C:\hjb\FloatCOnversion\FloatCOnversion\bin\Debug\net8.0\FloatCOnversion.pdb
+C:\hjb\FloatCOnversion\FloatCOnversion\obj\Debug\net8.0\FloatCOnversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\FloatCOnversion\FloatCOnversion\obj\Debug\net8.0\FloatCOnversion.AssemblyInfoInputs.cache
+C:\hjb\FloatCOnversion\FloatCOnversion\obj\Debug\net8.0\FloatCOnversion.AssemblyInfo.cs
+C:\hjb\FloatCOnversion\FloatCOnversion\obj\Debug\net8.0\FloatCOnversion.csproj.CoreCompileInputs.cache
+C:\hjb\FloatCOnversion\FloatCOnversion\obj\Debug\net8.0\FloatCOnversion.dll
+C:\hjb\FloatCOnversion\FloatCOnversion\obj\Debug\net8.0\refint\FloatCOnversion.dll
+C:\hjb\FloatCOnversion\FloatCOnversion\obj\Debug\net8.0\FloatCOnversion.pdb
+C:\hjb\FloatCOnversion\FloatCOnversion\obj\Debug\net8.0\FloatCOnversion.genruntimeconfig.cache
+C:\hjb\FloatCOnversion\FloatCOnversion\obj\Debug\net8.0\ref\FloatCOnversion.dll

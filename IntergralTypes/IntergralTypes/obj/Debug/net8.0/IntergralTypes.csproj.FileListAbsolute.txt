@@ -1,0 +1,14 @@
+C:\hjb\IntergralTypes\IntergralTypes\obj\Debug\net8.0\IntergralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\IntergralTypes\IntergralTypes\obj\Debug\net8.0\IntergralTypes.AssemblyInfoInputs.cache
+C:\hjb\IntergralTypes\IntergralTypes\obj\Debug\net8.0\IntergralTypes.AssemblyInfo.cs
+C:\hjb\IntergralTypes\IntergralTypes\obj\Debug\net8.0\IntergralTypes.csproj.CoreCompileInputs.cache
+C:\hjb\IntergralTypes\IntergralTypes\bin\Debug\net8.0\IntergralTypes.exe
+C:\hjb\IntergralTypes\IntergralTypes\bin\Debug\net8.0\IntergralTypes.deps.json
+C:\hjb\IntergralTypes\IntergralTypes\bin\Debug\net8.0\IntergralTypes.runtimeconfig.json
+C:\hjb\IntergralTypes\IntergralTypes\bin\Debug\net8.0\IntergralTypes.dll
+C:\hjb\IntergralTypes\IntergralTypes\bin\Debug\net8.0\IntergralTypes.pdb
+C:\hjb\IntergralTypes\IntergralTypes\obj\Debug\net8.0\IntergralTypes.dll
+C:\hjb\IntergralTypes\IntergralTypes\obj\Debug\net8.0\refint\IntergralTypes.dll
+C:\hjb\IntergralTypes\IntergralTypes\obj\Debug\net8.0\IntergralTypes.pdb
+C:\hjb\IntergralTypes\IntergralTypes\obj\Debug\net8.0\IntergralTypes.genruntimeconfig.cache
+C:\hjb\IntergralTypes\IntergralTypes\obj\Debug\net8.0\ref\IntergralTypes.dll

@@ -1,0 +1,10 @@
+C:\hjb\FileEditor\FileEditor\bin\Debug\FileEditor.exe.config
+C:\hjb\FileEditor\FileEditor\bin\Debug\FileEditor.exe
+C:\hjb\FileEditor\FileEditor\bin\Debug\FileEditor.pdb
+C:\hjb\FileEditor\FileEditor\obj\Debug\FileEditor.csproj.AssemblyReference.cache
+C:\hjb\FileEditor\FileEditor\obj\Debug\FileEditor.Form1.resources
+C:\hjb\FileEditor\FileEditor\obj\Debug\FileEditor.Properties.Resources.resources
+C:\hjb\FileEditor\FileEditor\obj\Debug\FileEditor.csproj.GenerateResource.cache
+C:\hjb\FileEditor\FileEditor\obj\Debug\FileEditor.csproj.CoreCompileInputs.cache
+C:\hjb\FileEditor\FileEditor\obj\Debug\FileEditor.exe
+C:\hjb\FileEditor\FileEditor\obj\Debug\FileEditor.pdb

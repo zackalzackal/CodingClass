@@ -1,0 +1,14 @@
+C:\hjb\post\post\bin\Debug\net8.0\post.exe
+C:\hjb\post\post\bin\Debug\net8.0\post.deps.json
+C:\hjb\post\post\bin\Debug\net8.0\post.runtimeconfig.json
+C:\hjb\post\post\bin\Debug\net8.0\post.dll
+C:\hjb\post\post\bin\Debug\net8.0\post.pdb
+C:\hjb\post\post\obj\Debug\net8.0\post.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\post\post\obj\Debug\net8.0\post.AssemblyInfoInputs.cache
+C:\hjb\post\post\obj\Debug\net8.0\post.AssemblyInfo.cs
+C:\hjb\post\post\obj\Debug\net8.0\post.csproj.CoreCompileInputs.cache
+C:\hjb\post\post\obj\Debug\net8.0\post.dll
+C:\hjb\post\post\obj\Debug\net8.0\refint\post.dll
+C:\hjb\post\post\obj\Debug\net8.0\post.pdb
+C:\hjb\post\post\obj\Debug\net8.0\post.genruntimeconfig.cache
+C:\hjb\post\post\obj\Debug\net8.0\ref\post.dll

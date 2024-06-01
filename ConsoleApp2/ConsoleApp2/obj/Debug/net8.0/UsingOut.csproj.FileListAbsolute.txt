@@ -1,0 +1,14 @@
+C:\hjb\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UsingOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UsingOut.AssemblyInfoInputs.cache
+C:\hjb\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UsingOut.AssemblyInfo.cs
+C:\hjb\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UsingOut.csproj.CoreCompileInputs.cache
+C:\hjb\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UsingOut.exe
+C:\hjb\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UsingOut.deps.json
+C:\hjb\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UsingOut.runtimeconfig.json
+C:\hjb\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UsingOut.dll
+C:\hjb\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\UsingOut.pdb
+C:\hjb\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UsingOut.dll
+C:\hjb\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\UsingOut.dll
+C:\hjb\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UsingOut.pdb
+C:\hjb\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\UsingOut.genruntimeconfig.cache
+C:\hjb\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\UsingOut.dll

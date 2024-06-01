@@ -1,0 +1,14 @@
+C:\hjb\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.exe
+C:\hjb\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.deps.json
+C:\hjb\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.runtimeconfig.json
+C:\hjb\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.dll
+C:\hjb\RefReturn\RefReturn\bin\Debug\net8.0\RefReturn.pdb
+C:\hjb\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.AssemblyInfoInputs.cache
+C:\hjb\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.AssemblyInfo.cs
+C:\hjb\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.csproj.CoreCompileInputs.cache
+C:\hjb\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.dll
+C:\hjb\RefReturn\RefReturn\obj\Debug\net8.0\refint\RefReturn.dll
+C:\hjb\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.pdb
+C:\hjb\RefReturn\RefReturn\obj\Debug\net8.0\RefReturn.genruntimeconfig.cache
+C:\hjb\RefReturn\RefReturn\obj\Debug\net8.0\ref\RefReturn.dll

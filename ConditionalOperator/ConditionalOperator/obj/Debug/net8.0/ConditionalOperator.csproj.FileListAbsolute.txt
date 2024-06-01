@@ -1,0 +1,14 @@
+C:\hjb\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.AssemblyInfoInputs.cache
+C:\hjb\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.AssemblyInfo.cs
+C:\hjb\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\hjb\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.exe
+C:\hjb\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.deps.json
+C:\hjb\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.runtimeconfig.json
+C:\hjb\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.dll
+C:\hjb\ConditionalOperator\ConditionalOperator\bin\Debug\net8.0\ConditionalOperator.pdb
+C:\hjb\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.dll
+C:\hjb\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\refint\ConditionalOperator.dll
+C:\hjb\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.pdb
+C:\hjb\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ConditionalOperator.genruntimeconfig.cache
+C:\hjb\ConditionalOperator\ConditionalOperator\obj\Debug\net8.0\ref\ConditionalOperator.dll

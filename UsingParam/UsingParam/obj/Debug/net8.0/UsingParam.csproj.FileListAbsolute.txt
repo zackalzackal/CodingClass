@@ -1,0 +1,14 @@
+C:\hjb\UsingParam\UsingParam\bin\Debug\net8.0\UsingParam.exe
+C:\hjb\UsingParam\UsingParam\bin\Debug\net8.0\UsingParam.deps.json
+C:\hjb\UsingParam\UsingParam\bin\Debug\net8.0\UsingParam.runtimeconfig.json
+C:\hjb\UsingParam\UsingParam\bin\Debug\net8.0\UsingParam.dll
+C:\hjb\UsingParam\UsingParam\bin\Debug\net8.0\UsingParam.pdb
+C:\hjb\UsingParam\UsingParam\obj\Debug\net8.0\UsingParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\UsingParam\UsingParam\obj\Debug\net8.0\UsingParam.AssemblyInfoInputs.cache
+C:\hjb\UsingParam\UsingParam\obj\Debug\net8.0\UsingParam.AssemblyInfo.cs
+C:\hjb\UsingParam\UsingParam\obj\Debug\net8.0\UsingParam.csproj.CoreCompileInputs.cache
+C:\hjb\UsingParam\UsingParam\obj\Debug\net8.0\UsingParam.dll
+C:\hjb\UsingParam\UsingParam\obj\Debug\net8.0\refint\UsingParam.dll
+C:\hjb\UsingParam\UsingParam\obj\Debug\net8.0\UsingParam.pdb
+C:\hjb\UsingParam\UsingParam\obj\Debug\net8.0\UsingParam.genruntimeconfig.cache
+C:\hjb\UsingParam\UsingParam\obj\Debug\net8.0\ref\UsingParam.dll

@@ -1,0 +1,14 @@
+C:\hjb\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.AssemblyInfoInputs.cache
+C:\hjb\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.AssemblyInfo.cs
+C:\hjb\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.csproj.CoreCompileInputs.cache
+C:\hjb\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.exe
+C:\hjb\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.deps.json
+C:\hjb\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.runtimeconfig.json
+C:\hjb\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.dll
+C:\hjb\SwapByRef\SwapByRef\bin\Debug\net8.0\SwapByRef.pdb
+C:\hjb\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.dll
+C:\hjb\SwapByRef\SwapByRef\obj\Debug\net8.0\refint\SwapByRef.dll
+C:\hjb\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.pdb
+C:\hjb\SwapByRef\SwapByRef\obj\Debug\net8.0\SwapByRef.genruntimeconfig.cache
+C:\hjb\SwapByRef\SwapByRef\obj\Debug\net8.0\ref\SwapByRef.dll

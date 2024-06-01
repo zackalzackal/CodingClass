@@ -1,0 +1,14 @@
+C:\hjb\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.exe
+C:\hjb\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.deps.json
+C:\hjb\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.runtimeconfig.json
+C:\hjb\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.dll
+C:\hjb\ConvertExam\ConvertExam\bin\Debug\net8.0\ConvertExam.pdb
+C:\hjb\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.AssemblyInfoInputs.cache
+C:\hjb\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.AssemblyInfo.cs
+C:\hjb\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.csproj.CoreCompileInputs.cache
+C:\hjb\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.dll
+C:\hjb\ConvertExam\ConvertExam\obj\Debug\net8.0\refint\ConvertExam.dll
+C:\hjb\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.pdb
+C:\hjb\ConvertExam\ConvertExam\obj\Debug\net8.0\ConvertExam.genruntimeconfig.cache
+C:\hjb\ConvertExam\ConvertExam\obj\Debug\net8.0\ref\ConvertExam.dll

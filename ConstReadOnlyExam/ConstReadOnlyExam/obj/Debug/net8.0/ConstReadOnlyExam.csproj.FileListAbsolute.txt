@@ -1,0 +1,14 @@
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\obj\Debug\net8.0\ConstReadOnlyExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\obj\Debug\net8.0\ConstReadOnlyExam.AssemblyInfoInputs.cache
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\obj\Debug\net8.0\ConstReadOnlyExam.AssemblyInfo.cs
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\obj\Debug\net8.0\ConstReadOnlyExam.csproj.CoreCompileInputs.cache
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\bin\Debug\net8.0\ConstReadOnlyExam.exe
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\bin\Debug\net8.0\ConstReadOnlyExam.deps.json
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\bin\Debug\net8.0\ConstReadOnlyExam.runtimeconfig.json
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\bin\Debug\net8.0\ConstReadOnlyExam.dll
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\bin\Debug\net8.0\ConstReadOnlyExam.pdb
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\obj\Debug\net8.0\ConstReadOnlyExam.dll
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\obj\Debug\net8.0\refint\ConstReadOnlyExam.dll
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\obj\Debug\net8.0\ConstReadOnlyExam.pdb
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\obj\Debug\net8.0\ConstReadOnlyExam.genruntimeconfig.cache
+C:\hjb\ConstReadOnlyExam\ConstReadOnlyExam\obj\Debug\net8.0\ref\ConstReadOnlyExam.dll

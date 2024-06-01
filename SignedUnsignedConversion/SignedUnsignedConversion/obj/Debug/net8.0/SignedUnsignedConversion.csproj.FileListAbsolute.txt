@@ -1,0 +1,14 @@
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.exe
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.deps.json
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.runtimeconfig.json
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.dll
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.pdb
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.AssemblyInfoInputs.cache
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.AssemblyInfo.cs
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.csproj.CoreCompileInputs.cache
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.dll
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net8.0\refint\SignedUnsignedConversion.dll
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.pdb
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.genruntimeconfig.cache
+C:\hjb\SignedUnsignedConversion\SignedUnsignedConversion\obj\Debug\net8.0\ref\SignedUnsignedConversion.dll

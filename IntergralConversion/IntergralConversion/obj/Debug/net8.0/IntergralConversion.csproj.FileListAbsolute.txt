@@ -1,0 +1,14 @@
+C:\hjb\IntergralConversion\IntergralConversion\bin\Debug\net8.0\IntergralConversion.exe
+C:\hjb\IntergralConversion\IntergralConversion\bin\Debug\net8.0\IntergralConversion.deps.json
+C:\hjb\IntergralConversion\IntergralConversion\bin\Debug\net8.0\IntergralConversion.runtimeconfig.json
+C:\hjb\IntergralConversion\IntergralConversion\bin\Debug\net8.0\IntergralConversion.dll
+C:\hjb\IntergralConversion\IntergralConversion\bin\Debug\net8.0\IntergralConversion.pdb
+C:\hjb\IntergralConversion\IntergralConversion\obj\Debug\net8.0\IntergralConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\IntergralConversion\IntergralConversion\obj\Debug\net8.0\IntergralConversion.AssemblyInfoInputs.cache
+C:\hjb\IntergralConversion\IntergralConversion\obj\Debug\net8.0\IntergralConversion.AssemblyInfo.cs
+C:\hjb\IntergralConversion\IntergralConversion\obj\Debug\net8.0\IntergralConversion.csproj.CoreCompileInputs.cache
+C:\hjb\IntergralConversion\IntergralConversion\obj\Debug\net8.0\IntergralConversion.dll
+C:\hjb\IntergralConversion\IntergralConversion\obj\Debug\net8.0\refint\IntergralConversion.dll
+C:\hjb\IntergralConversion\IntergralConversion\obj\Debug\net8.0\IntergralConversion.pdb
+C:\hjb\IntergralConversion\IntergralConversion\obj\Debug\net8.0\IntergralConversion.genruntimeconfig.cache
+C:\hjb\IntergralConversion\IntergralConversion\obj\Debug\net8.0\ref\IntergralConversion.dll

@@ -1,0 +1,4 @@
+C:\hjb\SealedMathod\SealedMathod\obj\Debug\net8.0\SealedMathod.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\SealedMathod\SealedMathod\obj\Debug\net8.0\SealedMathod.AssemblyInfoInputs.cache
+C:\hjb\SealedMathod\SealedMathod\obj\Debug\net8.0\SealedMathod.AssemblyInfo.cs
+C:\hjb\SealedMathod\SealedMathod\obj\Debug\net8.0\SealedMathod.csproj.CoreCompileInputs.cache

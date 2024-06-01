@@ -1,0 +1,14 @@
+C:\hjb\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+C:\hjb\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+C:\hjb\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+C:\hjb\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+C:\hjb\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+C:\hjb\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\hjb\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+C:\hjb\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\hjb\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+C:\hjb\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+C:\hjb\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+C:\hjb\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+C:\hjb\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll

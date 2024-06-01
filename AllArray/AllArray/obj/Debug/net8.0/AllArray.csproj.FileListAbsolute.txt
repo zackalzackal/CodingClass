@@ -1,0 +1,14 @@
+C:\hjb\AllArray\AllArray\bin\Debug\net8.0\AllArray.exe
+C:\hjb\AllArray\AllArray\bin\Debug\net8.0\AllArray.deps.json
+C:\hjb\AllArray\AllArray\bin\Debug\net8.0\AllArray.runtimeconfig.json
+C:\hjb\AllArray\AllArray\bin\Debug\net8.0\AllArray.dll
+C:\hjb\AllArray\AllArray\bin\Debug\net8.0\AllArray.pdb
+C:\hjb\AllArray\AllArray\obj\Debug\net8.0\AllArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\AllArray\AllArray\obj\Debug\net8.0\AllArray.AssemblyInfoInputs.cache
+C:\hjb\AllArray\AllArray\obj\Debug\net8.0\AllArray.AssemblyInfo.cs
+C:\hjb\AllArray\AllArray\obj\Debug\net8.0\AllArray.csproj.CoreCompileInputs.cache
+C:\hjb\AllArray\AllArray\obj\Debug\net8.0\AllArray.dll
+C:\hjb\AllArray\AllArray\obj\Debug\net8.0\refint\AllArray.dll
+C:\hjb\AllArray\AllArray\obj\Debug\net8.0\AllArray.pdb
+C:\hjb\AllArray\AllArray\obj\Debug\net8.0\AllArray.genruntimeconfig.cache
+C:\hjb\AllArray\AllArray\obj\Debug\net8.0\ref\AllArray.dll

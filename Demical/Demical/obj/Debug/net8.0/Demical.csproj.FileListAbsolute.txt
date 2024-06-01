@@ -1,0 +1,14 @@
+C:\hjb\Demical\Demical\obj\Debug\net8.0\Demical.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Demical\Demical\obj\Debug\net8.0\Demical.AssemblyInfoInputs.cache
+C:\hjb\Demical\Demical\obj\Debug\net8.0\Demical.AssemblyInfo.cs
+C:\hjb\Demical\Demical\obj\Debug\net8.0\Demical.csproj.CoreCompileInputs.cache
+C:\hjb\Demical\Demical\bin\Debug\net8.0\Demical.exe
+C:\hjb\Demical\Demical\bin\Debug\net8.0\Demical.deps.json
+C:\hjb\Demical\Demical\bin\Debug\net8.0\Demical.runtimeconfig.json
+C:\hjb\Demical\Demical\bin\Debug\net8.0\Demical.dll
+C:\hjb\Demical\Demical\bin\Debug\net8.0\Demical.pdb
+C:\hjb\Demical\Demical\obj\Debug\net8.0\Demical.dll
+C:\hjb\Demical\Demical\obj\Debug\net8.0\refint\Demical.dll
+C:\hjb\Demical\Demical\obj\Debug\net8.0\Demical.pdb
+C:\hjb\Demical\Demical\obj\Debug\net8.0\Demical.genruntimeconfig.cache
+C:\hjb\Demical\Demical\obj\Debug\net8.0\ref\Demical.dll

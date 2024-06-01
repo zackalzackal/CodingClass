@@ -1,0 +1,14 @@
+C:\hjb\DerivedInterface\DerivedInterface\obj\Debug\net8.0\DerivedInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\DerivedInterface\DerivedInterface\obj\Debug\net8.0\DerivedInterface.AssemblyInfoInputs.cache
+C:\hjb\DerivedInterface\DerivedInterface\obj\Debug\net8.0\DerivedInterface.AssemblyInfo.cs
+C:\hjb\DerivedInterface\DerivedInterface\obj\Debug\net8.0\DerivedInterface.csproj.CoreCompileInputs.cache
+C:\hjb\DerivedInterface\DerivedInterface\bin\Debug\net8.0\DerivedInterface.exe
+C:\hjb\DerivedInterface\DerivedInterface\bin\Debug\net8.0\DerivedInterface.deps.json
+C:\hjb\DerivedInterface\DerivedInterface\bin\Debug\net8.0\DerivedInterface.runtimeconfig.json
+C:\hjb\DerivedInterface\DerivedInterface\bin\Debug\net8.0\DerivedInterface.dll
+C:\hjb\DerivedInterface\DerivedInterface\bin\Debug\net8.0\DerivedInterface.pdb
+C:\hjb\DerivedInterface\DerivedInterface\obj\Debug\net8.0\DerivedInterface.dll
+C:\hjb\DerivedInterface\DerivedInterface\obj\Debug\net8.0\refint\DerivedInterface.dll
+C:\hjb\DerivedInterface\DerivedInterface\obj\Debug\net8.0\DerivedInterface.pdb
+C:\hjb\DerivedInterface\DerivedInterface\obj\Debug\net8.0\DerivedInterface.genruntimeconfig.cache
+C:\hjb\DerivedInterface\DerivedInterface\obj\Debug\net8.0\ref\DerivedInterface.dll

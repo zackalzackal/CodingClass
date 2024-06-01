@@ -1,0 +1,14 @@
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\obj\Debug\net8.0\DateTimeMethodExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\obj\Debug\net8.0\DateTimeMethodExam.AssemblyInfoInputs.cache
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\obj\Debug\net8.0\DateTimeMethodExam.AssemblyInfo.cs
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\obj\Debug\net8.0\DateTimeMethodExam.csproj.CoreCompileInputs.cache
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\bin\Debug\net8.0\DateTimeMethodExam.exe
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\bin\Debug\net8.0\DateTimeMethodExam.deps.json
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\bin\Debug\net8.0\DateTimeMethodExam.runtimeconfig.json
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\bin\Debug\net8.0\DateTimeMethodExam.dll
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\bin\Debug\net8.0\DateTimeMethodExam.pdb
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\obj\Debug\net8.0\DateTimeMethodExam.dll
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\obj\Debug\net8.0\refint\DateTimeMethodExam.dll
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\obj\Debug\net8.0\DateTimeMethodExam.pdb
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\obj\Debug\net8.0\DateTimeMethodExam.genruntimeconfig.cache
+C:\hjb\DateTimeMethodExam\DateTimeMethodExam\obj\Debug\net8.0\ref\DateTimeMethodExam.dll

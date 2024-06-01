@@ -1,0 +1,14 @@
+C:\hjb\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.exe
+C:\hjb\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.deps.json
+C:\hjb\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.runtimeconfig.json
+C:\hjb\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.dll
+C:\hjb\NestedClass\NestedClass\bin\Debug\net8.0\NestedClass.pdb
+C:\hjb\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.AssemblyInfoInputs.cache
+C:\hjb\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.AssemblyInfo.cs
+C:\hjb\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.csproj.CoreCompileInputs.cache
+C:\hjb\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.dll
+C:\hjb\NestedClass\NestedClass\obj\Debug\net8.0\refint\NestedClass.dll
+C:\hjb\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.pdb
+C:\hjb\NestedClass\NestedClass\obj\Debug\net8.0\NestedClass.genruntimeconfig.cache
+C:\hjb\NestedClass\NestedClass\obj\Debug\net8.0\ref\NestedClass.dll

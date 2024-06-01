@@ -1,0 +1,14 @@
+C:\hjb\TypeCastring\TypeCastring\bin\Debug\net8.0\TypeCastring.exe
+C:\hjb\TypeCastring\TypeCastring\bin\Debug\net8.0\TypeCastring.deps.json
+C:\hjb\TypeCastring\TypeCastring\bin\Debug\net8.0\TypeCastring.runtimeconfig.json
+C:\hjb\TypeCastring\TypeCastring\bin\Debug\net8.0\TypeCastring.dll
+C:\hjb\TypeCastring\TypeCastring\bin\Debug\net8.0\TypeCastring.pdb
+C:\hjb\TypeCastring\TypeCastring\obj\Debug\net8.0\TypeCastring.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\TypeCastring\TypeCastring\obj\Debug\net8.0\TypeCastring.AssemblyInfoInputs.cache
+C:\hjb\TypeCastring\TypeCastring\obj\Debug\net8.0\TypeCastring.AssemblyInfo.cs
+C:\hjb\TypeCastring\TypeCastring\obj\Debug\net8.0\TypeCastring.csproj.CoreCompileInputs.cache
+C:\hjb\TypeCastring\TypeCastring\obj\Debug\net8.0\TypeCastring.dll
+C:\hjb\TypeCastring\TypeCastring\obj\Debug\net8.0\refint\TypeCastring.dll
+C:\hjb\TypeCastring\TypeCastring\obj\Debug\net8.0\TypeCastring.pdb
+C:\hjb\TypeCastring\TypeCastring\obj\Debug\net8.0\TypeCastring.genruntimeconfig.cache
+C:\hjb\TypeCastring\TypeCastring\obj\Debug\net8.0\ref\TypeCastring.dll

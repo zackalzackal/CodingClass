@@ -1,0 +1,14 @@
+C:\hjb\Stingcompare\Stingcompare\obj\Debug\net8.0\Stingcompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Stingcompare\Stingcompare\obj\Debug\net8.0\Stingcompare.AssemblyInfoInputs.cache
+C:\hjb\Stingcompare\Stingcompare\obj\Debug\net8.0\Stingcompare.AssemblyInfo.cs
+C:\hjb\Stingcompare\Stingcompare\obj\Debug\net8.0\Stingcompare.csproj.CoreCompileInputs.cache
+C:\hjb\Stingcompare\Stingcompare\bin\Debug\net8.0\Stingcompare.exe
+C:\hjb\Stingcompare\Stingcompare\bin\Debug\net8.0\Stingcompare.deps.json
+C:\hjb\Stingcompare\Stingcompare\bin\Debug\net8.0\Stingcompare.runtimeconfig.json
+C:\hjb\Stingcompare\Stingcompare\bin\Debug\net8.0\Stingcompare.dll
+C:\hjb\Stingcompare\Stingcompare\bin\Debug\net8.0\Stingcompare.pdb
+C:\hjb\Stingcompare\Stingcompare\obj\Debug\net8.0\Stingcompare.dll
+C:\hjb\Stingcompare\Stingcompare\obj\Debug\net8.0\refint\Stingcompare.dll
+C:\hjb\Stingcompare\Stingcompare\obj\Debug\net8.0\Stingcompare.pdb
+C:\hjb\Stingcompare\Stingcompare\obj\Debug\net8.0\Stingcompare.genruntimeconfig.cache
+C:\hjb\Stingcompare\Stingcompare\obj\Debug\net8.0\ref\Stingcompare.dll

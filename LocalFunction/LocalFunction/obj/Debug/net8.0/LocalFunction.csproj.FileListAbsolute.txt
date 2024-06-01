@@ -1,0 +1,14 @@
+C:\hjb\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.exe
+C:\hjb\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.deps.json
+C:\hjb\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.runtimeconfig.json
+C:\hjb\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.dll
+C:\hjb\LocalFunction\LocalFunction\bin\Debug\net8.0\LocalFunction.pdb
+C:\hjb\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.AssemblyInfoInputs.cache
+C:\hjb\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.AssemblyInfo.cs
+C:\hjb\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.csproj.CoreCompileInputs.cache
+C:\hjb\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.dll
+C:\hjb\LocalFunction\LocalFunction\obj\Debug\net8.0\refint\LocalFunction.dll
+C:\hjb\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.pdb
+C:\hjb\LocalFunction\LocalFunction\obj\Debug\net8.0\LocalFunction.genruntimeconfig.cache
+C:\hjb\LocalFunction\LocalFunction\obj\Debug\net8.0\ref\LocalFunction.dll

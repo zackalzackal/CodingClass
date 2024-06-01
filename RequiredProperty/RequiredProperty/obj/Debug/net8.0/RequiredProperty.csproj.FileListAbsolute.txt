@@ -1,0 +1,14 @@
+C:\hjb\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.exe
+C:\hjb\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.deps.json
+C:\hjb\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.runtimeconfig.json
+C:\hjb\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.dll
+C:\hjb\RequiredProperty\RequiredProperty\bin\Debug\net8.0\RequiredProperty.pdb
+C:\hjb\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.AssemblyInfoInputs.cache
+C:\hjb\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.AssemblyInfo.cs
+C:\hjb\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.csproj.CoreCompileInputs.cache
+C:\hjb\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.dll
+C:\hjb\RequiredProperty\RequiredProperty\obj\Debug\net8.0\refint\RequiredProperty.dll
+C:\hjb\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.pdb
+C:\hjb\RequiredProperty\RequiredProperty\obj\Debug\net8.0\RequiredProperty.genruntimeconfig.cache
+C:\hjb\RequiredProperty\RequiredProperty\obj\Debug\net8.0\ref\RequiredProperty.dll

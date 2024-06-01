@@ -1,0 +1,14 @@
+C:\hjb\ArraySample\ArraySample\bin\Debug\net8.0\ArraySample.exe
+C:\hjb\ArraySample\ArraySample\bin\Debug\net8.0\ArraySample.deps.json
+C:\hjb\ArraySample\ArraySample\bin\Debug\net8.0\ArraySample.runtimeconfig.json
+C:\hjb\ArraySample\ArraySample\bin\Debug\net8.0\ArraySample.dll
+C:\hjb\ArraySample\ArraySample\bin\Debug\net8.0\ArraySample.pdb
+C:\hjb\ArraySample\ArraySample\obj\Debug\net8.0\ArraySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ArraySample\ArraySample\obj\Debug\net8.0\ArraySample.AssemblyInfoInputs.cache
+C:\hjb\ArraySample\ArraySample\obj\Debug\net8.0\ArraySample.AssemblyInfo.cs
+C:\hjb\ArraySample\ArraySample\obj\Debug\net8.0\ArraySample.csproj.CoreCompileInputs.cache
+C:\hjb\ArraySample\ArraySample\obj\Debug\net8.0\ArraySample.dll
+C:\hjb\ArraySample\ArraySample\obj\Debug\net8.0\refint\ArraySample.dll
+C:\hjb\ArraySample\ArraySample\obj\Debug\net8.0\ArraySample.pdb
+C:\hjb\ArraySample\ArraySample\obj\Debug\net8.0\ArraySample.genruntimeconfig.cache
+C:\hjb\ArraySample\ArraySample\obj\Debug\net8.0\ref\ArraySample.dll

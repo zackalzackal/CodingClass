@@ -1,0 +1,14 @@
+C:\hjb\TryPause\TryPause\bin\Debug\net8.0\TryPause.exe
+C:\hjb\TryPause\TryPause\bin\Debug\net8.0\TryPause.deps.json
+C:\hjb\TryPause\TryPause\bin\Debug\net8.0\TryPause.runtimeconfig.json
+C:\hjb\TryPause\TryPause\bin\Debug\net8.0\TryPause.dll
+C:\hjb\TryPause\TryPause\bin\Debug\net8.0\TryPause.pdb
+C:\hjb\TryPause\TryPause\obj\Debug\net8.0\TryPause.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\TryPause\TryPause\obj\Debug\net8.0\TryPause.AssemblyInfoInputs.cache
+C:\hjb\TryPause\TryPause\obj\Debug\net8.0\TryPause.AssemblyInfo.cs
+C:\hjb\TryPause\TryPause\obj\Debug\net8.0\TryPause.csproj.CoreCompileInputs.cache
+C:\hjb\TryPause\TryPause\obj\Debug\net8.0\TryPause.dll
+C:\hjb\TryPause\TryPause\obj\Debug\net8.0\refint\TryPause.dll
+C:\hjb\TryPause\TryPause\obj\Debug\net8.0\TryPause.pdb
+C:\hjb\TryPause\TryPause\obj\Debug\net8.0\TryPause.genruntimeconfig.cache
+C:\hjb\TryPause\TryPause\obj\Debug\net8.0\ref\TryPause.dll

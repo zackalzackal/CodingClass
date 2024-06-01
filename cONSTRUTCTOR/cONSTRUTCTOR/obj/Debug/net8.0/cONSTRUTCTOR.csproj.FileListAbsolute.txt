@@ -1,0 +1,14 @@
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\bin\Debug\net8.0\cONSTRUTCTOR.exe
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\bin\Debug\net8.0\cONSTRUTCTOR.deps.json
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\bin\Debug\net8.0\cONSTRUTCTOR.runtimeconfig.json
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\bin\Debug\net8.0\cONSTRUTCTOR.dll
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\bin\Debug\net8.0\cONSTRUTCTOR.pdb
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\obj\Debug\net8.0\cONSTRUTCTOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\obj\Debug\net8.0\cONSTRUTCTOR.AssemblyInfoInputs.cache
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\obj\Debug\net8.0\cONSTRUTCTOR.AssemblyInfo.cs
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\obj\Debug\net8.0\cONSTRUTCTOR.csproj.CoreCompileInputs.cache
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\obj\Debug\net8.0\cONSTRUTCTOR.dll
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\obj\Debug\net8.0\refint\cONSTRUTCTOR.dll
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\obj\Debug\net8.0\cONSTRUTCTOR.pdb
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\obj\Debug\net8.0\cONSTRUTCTOR.genruntimeconfig.cache
+C:\hjb\cONSTRUTCTOR\cONSTRUTCTOR\obj\Debug\net8.0\ref\cONSTRUTCTOR.dll

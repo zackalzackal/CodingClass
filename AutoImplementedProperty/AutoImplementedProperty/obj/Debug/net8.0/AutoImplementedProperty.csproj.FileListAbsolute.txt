@@ -1,0 +1,14 @@
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.AssemblyInfoInputs.cache
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.AssemblyInfo.cs
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.exe
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.deps.json
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.runtimeconfig.json
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.dll
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.pdb
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.dll
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\net8.0\refint\AutoImplementedProperty.dll
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.pdb
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.genruntimeconfig.cache
+C:\hjb\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\net8.0\ref\AutoImplementedProperty.dll

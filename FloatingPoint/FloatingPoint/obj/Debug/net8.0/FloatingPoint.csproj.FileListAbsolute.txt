@@ -1,0 +1,14 @@
+C:\hjb\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.exe
+C:\hjb\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.deps.json
+C:\hjb\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.runtimeconfig.json
+C:\hjb\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.dll
+C:\hjb\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.pdb
+C:\hjb\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfoInputs.cache
+C:\hjb\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfo.cs
+C:\hjb\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\hjb\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.dll
+C:\hjb\FloatingPoint\FloatingPoint\obj\Debug\net8.0\refint\FloatingPoint.dll
+C:\hjb\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.pdb
+C:\hjb\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.genruntimeconfig.cache
+C:\hjb\FloatingPoint\FloatingPoint\obj\Debug\net8.0\ref\FloatingPoint.dll

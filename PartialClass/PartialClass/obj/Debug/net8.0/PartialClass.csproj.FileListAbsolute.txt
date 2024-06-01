@@ -1,0 +1,14 @@
+C:\hjb\PartialClass\PartialClass\bin\Debug\net8.0\PartialClass.exe
+C:\hjb\PartialClass\PartialClass\bin\Debug\net8.0\PartialClass.deps.json
+C:\hjb\PartialClass\PartialClass\bin\Debug\net8.0\PartialClass.runtimeconfig.json
+C:\hjb\PartialClass\PartialClass\bin\Debug\net8.0\PartialClass.dll
+C:\hjb\PartialClass\PartialClass\bin\Debug\net8.0\PartialClass.pdb
+C:\hjb\PartialClass\PartialClass\obj\Debug\net8.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\PartialClass\PartialClass\obj\Debug\net8.0\PartialClass.AssemblyInfoInputs.cache
+C:\hjb\PartialClass\PartialClass\obj\Debug\net8.0\PartialClass.AssemblyInfo.cs
+C:\hjb\PartialClass\PartialClass\obj\Debug\net8.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\hjb\PartialClass\PartialClass\obj\Debug\net8.0\PartialClass.dll
+C:\hjb\PartialClass\PartialClass\obj\Debug\net8.0\refint\PartialClass.dll
+C:\hjb\PartialClass\PartialClass\obj\Debug\net8.0\PartialClass.pdb
+C:\hjb\PartialClass\PartialClass\obj\Debug\net8.0\PartialClass.genruntimeconfig.cache
+C:\hjb\PartialClass\PartialClass\obj\Debug\net8.0\ref\PartialClass.dll

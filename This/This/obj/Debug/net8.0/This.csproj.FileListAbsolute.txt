@@ -1,0 +1,14 @@
+C:\hjb\This\This\bin\Debug\net8.0\This.exe
+C:\hjb\This\This\bin\Debug\net8.0\This.deps.json
+C:\hjb\This\This\bin\Debug\net8.0\This.runtimeconfig.json
+C:\hjb\This\This\bin\Debug\net8.0\This.dll
+C:\hjb\This\This\bin\Debug\net8.0\This.pdb
+C:\hjb\This\This\obj\Debug\net8.0\This.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\This\This\obj\Debug\net8.0\This.AssemblyInfoInputs.cache
+C:\hjb\This\This\obj\Debug\net8.0\This.AssemblyInfo.cs
+C:\hjb\This\This\obj\Debug\net8.0\This.csproj.CoreCompileInputs.cache
+C:\hjb\This\This\obj\Debug\net8.0\This.dll
+C:\hjb\This\This\obj\Debug\net8.0\refint\This.dll
+C:\hjb\This\This\obj\Debug\net8.0\This.pdb
+C:\hjb\This\This\obj\Debug\net8.0\This.genruntimeconfig.cache
+C:\hjb\This\This\obj\Debug\net8.0\ref\This.dll

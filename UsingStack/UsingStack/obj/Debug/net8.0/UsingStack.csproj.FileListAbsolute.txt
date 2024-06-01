@@ -1,0 +1,14 @@
+C:\hjb\UsingStack\UsingStack\bin\Debug\net8.0\UsingStack.exe
+C:\hjb\UsingStack\UsingStack\bin\Debug\net8.0\UsingStack.deps.json
+C:\hjb\UsingStack\UsingStack\bin\Debug\net8.0\UsingStack.runtimeconfig.json
+C:\hjb\UsingStack\UsingStack\bin\Debug\net8.0\UsingStack.dll
+C:\hjb\UsingStack\UsingStack\bin\Debug\net8.0\UsingStack.pdb
+C:\hjb\UsingStack\UsingStack\obj\Debug\net8.0\UsingStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\UsingStack\UsingStack\obj\Debug\net8.0\UsingStack.AssemblyInfoInputs.cache
+C:\hjb\UsingStack\UsingStack\obj\Debug\net8.0\UsingStack.AssemblyInfo.cs
+C:\hjb\UsingStack\UsingStack\obj\Debug\net8.0\UsingStack.csproj.CoreCompileInputs.cache
+C:\hjb\UsingStack\UsingStack\obj\Debug\net8.0\UsingStack.dll
+C:\hjb\UsingStack\UsingStack\obj\Debug\net8.0\refint\UsingStack.dll
+C:\hjb\UsingStack\UsingStack\obj\Debug\net8.0\UsingStack.pdb
+C:\hjb\UsingStack\UsingStack\obj\Debug\net8.0\UsingStack.genruntimeconfig.cache
+C:\hjb\UsingStack\UsingStack\obj\Debug\net8.0\ref\UsingStack.dll

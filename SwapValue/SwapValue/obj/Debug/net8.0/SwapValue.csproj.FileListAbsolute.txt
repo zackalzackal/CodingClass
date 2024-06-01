@@ -1,0 +1,14 @@
+C:\hjb\SwapValue\SwapValue\bin\Debug\net8.0\SwapValue.exe
+C:\hjb\SwapValue\SwapValue\bin\Debug\net8.0\SwapValue.deps.json
+C:\hjb\SwapValue\SwapValue\bin\Debug\net8.0\SwapValue.runtimeconfig.json
+C:\hjb\SwapValue\SwapValue\bin\Debug\net8.0\SwapValue.dll
+C:\hjb\SwapValue\SwapValue\bin\Debug\net8.0\SwapValue.pdb
+C:\hjb\SwapValue\SwapValue\obj\Debug\net8.0\SwapValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\SwapValue\SwapValue\obj\Debug\net8.0\SwapValue.AssemblyInfoInputs.cache
+C:\hjb\SwapValue\SwapValue\obj\Debug\net8.0\SwapValue.AssemblyInfo.cs
+C:\hjb\SwapValue\SwapValue\obj\Debug\net8.0\SwapValue.csproj.CoreCompileInputs.cache
+C:\hjb\SwapValue\SwapValue\obj\Debug\net8.0\SwapValue.dll
+C:\hjb\SwapValue\SwapValue\obj\Debug\net8.0\refint\SwapValue.dll
+C:\hjb\SwapValue\SwapValue\obj\Debug\net8.0\SwapValue.pdb
+C:\hjb\SwapValue\SwapValue\obj\Debug\net8.0\SwapValue.genruntimeconfig.cache
+C:\hjb\SwapValue\SwapValue\obj\Debug\net8.0\ref\SwapValue.dll

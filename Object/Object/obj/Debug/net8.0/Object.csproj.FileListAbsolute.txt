@@ -1,0 +1,14 @@
+C:\hjb\Object\Object\bin\Debug\net8.0\Object.exe
+C:\hjb\Object\Object\bin\Debug\net8.0\Object.deps.json
+C:\hjb\Object\Object\bin\Debug\net8.0\Object.runtimeconfig.json
+C:\hjb\Object\Object\bin\Debug\net8.0\Object.dll
+C:\hjb\Object\Object\bin\Debug\net8.0\Object.pdb
+C:\hjb\Object\Object\obj\Debug\net8.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Object\Object\obj\Debug\net8.0\Object.AssemblyInfoInputs.cache
+C:\hjb\Object\Object\obj\Debug\net8.0\Object.AssemblyInfo.cs
+C:\hjb\Object\Object\obj\Debug\net8.0\Object.csproj.CoreCompileInputs.cache
+C:\hjb\Object\Object\obj\Debug\net8.0\Object.dll
+C:\hjb\Object\Object\obj\Debug\net8.0\refint\Object.dll
+C:\hjb\Object\Object\obj\Debug\net8.0\Object.pdb
+C:\hjb\Object\Object\obj\Debug\net8.0\Object.genruntimeconfig.cache
+C:\hjb\Object\Object\obj\Debug\net8.0\ref\Object.dll

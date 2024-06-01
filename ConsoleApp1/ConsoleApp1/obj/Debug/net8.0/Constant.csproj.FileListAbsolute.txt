@@ -1,0 +1,14 @@
+C:\hjb\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Constant.AssemblyInfoInputs.cache
+C:\hjb\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Constant.AssemblyInfo.cs
+C:\hjb\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Constant.csproj.CoreCompileInputs.cache
+C:\hjb\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Constant.exe
+C:\hjb\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Constant.deps.json
+C:\hjb\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Constant.runtimeconfig.json
+C:\hjb\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Constant.dll
+C:\hjb\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Constant.pdb
+C:\hjb\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Constant.dll
+C:\hjb\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Constant.dll
+C:\hjb\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Constant.pdb
+C:\hjb\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Constant.genruntimeconfig.cache
+C:\hjb\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Constant.dll

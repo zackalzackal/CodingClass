@@ -1,0 +1,14 @@
+C:\hjb\Structure\Structure\bin\Debug\net8.0\Structure.exe
+C:\hjb\Structure\Structure\bin\Debug\net8.0\Structure.deps.json
+C:\hjb\Structure\Structure\bin\Debug\net8.0\Structure.runtimeconfig.json
+C:\hjb\Structure\Structure\bin\Debug\net8.0\Structure.dll
+C:\hjb\Structure\Structure\bin\Debug\net8.0\Structure.pdb
+C:\hjb\Structure\Structure\obj\Debug\net8.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Structure\Structure\obj\Debug\net8.0\Structure.AssemblyInfoInputs.cache
+C:\hjb\Structure\Structure\obj\Debug\net8.0\Structure.AssemblyInfo.cs
+C:\hjb\Structure\Structure\obj\Debug\net8.0\Structure.csproj.CoreCompileInputs.cache
+C:\hjb\Structure\Structure\obj\Debug\net8.0\Structure.dll
+C:\hjb\Structure\Structure\obj\Debug\net8.0\refint\Structure.dll
+C:\hjb\Structure\Structure\obj\Debug\net8.0\Structure.pdb
+C:\hjb\Structure\Structure\obj\Debug\net8.0\Structure.genruntimeconfig.cache
+C:\hjb\Structure\Structure\obj\Debug\net8.0\ref\Structure.dll

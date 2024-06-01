@@ -1,0 +1,14 @@
+C:\hjb\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.exe
+C:\hjb\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.deps.json
+C:\hjb\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.runtimeconfig.json
+C:\hjb\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.dll
+C:\hjb\DeepCopy\DeepCopy\bin\Debug\net8.0\DeepCopy.pdb
+C:\hjb\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.AssemblyInfoInputs.cache
+C:\hjb\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.AssemblyInfo.cs
+C:\hjb\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.csproj.CoreCompileInputs.cache
+C:\hjb\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.dll
+C:\hjb\DeepCopy\DeepCopy\obj\Debug\net8.0\refint\DeepCopy.dll
+C:\hjb\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.pdb
+C:\hjb\DeepCopy\DeepCopy\obj\Debug\net8.0\DeepCopy.genruntimeconfig.cache
+C:\hjb\DeepCopy\DeepCopy\obj\Debug\net8.0\ref\DeepCopy.dll

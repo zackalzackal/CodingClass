@@ -1,0 +1,14 @@
+C:\hjb\StringFormatDatetime\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.exe
+C:\hjb\StringFormatDatetime\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.deps.json
+C:\hjb\StringFormatDatetime\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.runtimeconfig.json
+C:\hjb\StringFormatDatetime\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.dll
+C:\hjb\StringFormatDatetime\StringFormatDatetime\bin\Debug\net8.0\StringFormatDatetime.pdb
+C:\hjb\StringFormatDatetime\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\StringFormatDatetime\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.AssemblyInfoInputs.cache
+C:\hjb\StringFormatDatetime\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.AssemblyInfo.cs
+C:\hjb\StringFormatDatetime\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.csproj.CoreCompileInputs.cache
+C:\hjb\StringFormatDatetime\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.dll
+C:\hjb\StringFormatDatetime\StringFormatDatetime\obj\Debug\net8.0\refint\StringFormatDatetime.dll
+C:\hjb\StringFormatDatetime\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.pdb
+C:\hjb\StringFormatDatetime\StringFormatDatetime\obj\Debug\net8.0\StringFormatDatetime.genruntimeconfig.cache
+C:\hjb\StringFormatDatetime\StringFormatDatetime\obj\Debug\net8.0\ref\StringFormatDatetime.dll

@@ -1,0 +1,14 @@
+C:\hjb\PositionalPattern\PositionalPattern\bin\Debug\net8.0\PositionalPattern.exe
+C:\hjb\PositionalPattern\PositionalPattern\bin\Debug\net8.0\PositionalPattern.deps.json
+C:\hjb\PositionalPattern\PositionalPattern\bin\Debug\net8.0\PositionalPattern.runtimeconfig.json
+C:\hjb\PositionalPattern\PositionalPattern\bin\Debug\net8.0\PositionalPattern.dll
+C:\hjb\PositionalPattern\PositionalPattern\bin\Debug\net8.0\PositionalPattern.pdb
+C:\hjb\PositionalPattern\PositionalPattern\obj\Debug\net8.0\PositionalPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\PositionalPattern\PositionalPattern\obj\Debug\net8.0\PositionalPattern.AssemblyInfoInputs.cache
+C:\hjb\PositionalPattern\PositionalPattern\obj\Debug\net8.0\PositionalPattern.AssemblyInfo.cs
+C:\hjb\PositionalPattern\PositionalPattern\obj\Debug\net8.0\PositionalPattern.csproj.CoreCompileInputs.cache
+C:\hjb\PositionalPattern\PositionalPattern\obj\Debug\net8.0\PositionalPattern.dll
+C:\hjb\PositionalPattern\PositionalPattern\obj\Debug\net8.0\refint\PositionalPattern.dll
+C:\hjb\PositionalPattern\PositionalPattern\obj\Debug\net8.0\PositionalPattern.pdb
+C:\hjb\PositionalPattern\PositionalPattern\obj\Debug\net8.0\PositionalPattern.genruntimeconfig.cache
+C:\hjb\PositionalPattern\PositionalPattern\obj\Debug\net8.0\ref\PositionalPattern.dll

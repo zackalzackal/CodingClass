@@ -1,0 +1,14 @@
+C:\hjb\Fac새갸미\Fac새갸미\obj\Debug\net8.0\Fac새갸미.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Fac새갸미\Fac새갸미\obj\Debug\net8.0\Fac새갸미.AssemblyInfoInputs.cache
+C:\hjb\Fac새갸미\Fac새갸미\obj\Debug\net8.0\Fac새갸미.AssemblyInfo.cs
+C:\hjb\Fac새갸미\Fac새갸미\obj\Debug\net8.0\Fac새갸미.csproj.CoreCompileInputs.cache
+C:\hjb\Fac새갸미\Fac새갸미\bin\Debug\net8.0\Fac새갸미.exe
+C:\hjb\Fac새갸미\Fac새갸미\bin\Debug\net8.0\Fac새갸미.deps.json
+C:\hjb\Fac새갸미\Fac새갸미\bin\Debug\net8.0\Fac새갸미.runtimeconfig.json
+C:\hjb\Fac새갸미\Fac새갸미\bin\Debug\net8.0\Fac새갸미.dll
+C:\hjb\Fac새갸미\Fac새갸미\bin\Debug\net8.0\Fac새갸미.pdb
+C:\hjb\Fac새갸미\Fac새갸미\obj\Debug\net8.0\Fac새갸미.dll
+C:\hjb\Fac새갸미\Fac새갸미\obj\Debug\net8.0\refint\Fac새갸미.dll
+C:\hjb\Fac새갸미\Fac새갸미\obj\Debug\net8.0\Fac새갸미.pdb
+C:\hjb\Fac새갸미\Fac새갸미\obj\Debug\net8.0\Fac새갸미.genruntimeconfig.cache
+C:\hjb\Fac새갸미\Fac새갸미\obj\Debug\net8.0\ref\Fac새갸미.dll

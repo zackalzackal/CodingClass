@@ -1,0 +1,14 @@
+C:\hjb\OverrideEx01\OverrideEx01\bin\Debug\net8.0\OverrideEx01.exe
+C:\hjb\OverrideEx01\OverrideEx01\bin\Debug\net8.0\OverrideEx01.deps.json
+C:\hjb\OverrideEx01\OverrideEx01\bin\Debug\net8.0\OverrideEx01.runtimeconfig.json
+C:\hjb\OverrideEx01\OverrideEx01\bin\Debug\net8.0\OverrideEx01.dll
+C:\hjb\OverrideEx01\OverrideEx01\bin\Debug\net8.0\OverrideEx01.pdb
+C:\hjb\OverrideEx01\OverrideEx01\obj\Debug\net8.0\OverrideEx01.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\OverrideEx01\OverrideEx01\obj\Debug\net8.0\OverrideEx01.AssemblyInfoInputs.cache
+C:\hjb\OverrideEx01\OverrideEx01\obj\Debug\net8.0\OverrideEx01.AssemblyInfo.cs
+C:\hjb\OverrideEx01\OverrideEx01\obj\Debug\net8.0\OverrideEx01.csproj.CoreCompileInputs.cache
+C:\hjb\OverrideEx01\OverrideEx01\obj\Debug\net8.0\OverrideEx01.dll
+C:\hjb\OverrideEx01\OverrideEx01\obj\Debug\net8.0\refint\OverrideEx01.dll
+C:\hjb\OverrideEx01\OverrideEx01\obj\Debug\net8.0\OverrideEx01.pdb
+C:\hjb\OverrideEx01\OverrideEx01\obj\Debug\net8.0\OverrideEx01.genruntimeconfig.cache
+C:\hjb\OverrideEx01\OverrideEx01\obj\Debug\net8.0\ref\OverrideEx01.dll

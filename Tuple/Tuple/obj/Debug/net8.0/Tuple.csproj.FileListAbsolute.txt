@@ -1,0 +1,14 @@
+C:\hjb\Tuple\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+C:\hjb\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+C:\hjb\Tuple\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+C:\hjb\Tuple\Tuple\bin\Debug\net8.0\Tuple.exe
+C:\hjb\Tuple\Tuple\bin\Debug\net8.0\Tuple.deps.json
+C:\hjb\Tuple\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+C:\hjb\Tuple\Tuple\bin\Debug\net8.0\Tuple.dll
+C:\hjb\Tuple\Tuple\bin\Debug\net8.0\Tuple.pdb
+C:\hjb\Tuple\Tuple\obj\Debug\net8.0\Tuple.dll
+C:\hjb\Tuple\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+C:\hjb\Tuple\Tuple\obj\Debug\net8.0\Tuple.pdb
+C:\hjb\Tuple\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+C:\hjb\Tuple\Tuple\obj\Debug\net8.0\ref\Tuple.dll

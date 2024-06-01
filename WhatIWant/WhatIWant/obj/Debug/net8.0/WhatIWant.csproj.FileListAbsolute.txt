@@ -1,0 +1,14 @@
+C:\hjb\WhatIWant\WhatIWant\bin\Debug\net8.0\WhatIWant.exe
+C:\hjb\WhatIWant\WhatIWant\bin\Debug\net8.0\WhatIWant.deps.json
+C:\hjb\WhatIWant\WhatIWant\bin\Debug\net8.0\WhatIWant.runtimeconfig.json
+C:\hjb\WhatIWant\WhatIWant\bin\Debug\net8.0\WhatIWant.dll
+C:\hjb\WhatIWant\WhatIWant\bin\Debug\net8.0\WhatIWant.pdb
+C:\hjb\WhatIWant\WhatIWant\obj\Debug\net8.0\WhatIWant.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\WhatIWant\WhatIWant\obj\Debug\net8.0\WhatIWant.AssemblyInfoInputs.cache
+C:\hjb\WhatIWant\WhatIWant\obj\Debug\net8.0\WhatIWant.AssemblyInfo.cs
+C:\hjb\WhatIWant\WhatIWant\obj\Debug\net8.0\WhatIWant.csproj.CoreCompileInputs.cache
+C:\hjb\WhatIWant\WhatIWant\obj\Debug\net8.0\WhatIWant.dll
+C:\hjb\WhatIWant\WhatIWant\obj\Debug\net8.0\refint\WhatIWant.dll
+C:\hjb\WhatIWant\WhatIWant\obj\Debug\net8.0\WhatIWant.pdb
+C:\hjb\WhatIWant\WhatIWant\obj\Debug\net8.0\WhatIWant.genruntimeconfig.cache
+C:\hjb\WhatIWant\WhatIWant\obj\Debug\net8.0\ref\WhatIWant.dll

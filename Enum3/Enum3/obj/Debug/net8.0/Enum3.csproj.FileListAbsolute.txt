@@ -1,0 +1,14 @@
+C:\hjb\Enum3\Enum3\bin\Debug\net8.0\Enum3.exe
+C:\hjb\Enum3\Enum3\bin\Debug\net8.0\Enum3.deps.json
+C:\hjb\Enum3\Enum3\bin\Debug\net8.0\Enum3.runtimeconfig.json
+C:\hjb\Enum3\Enum3\bin\Debug\net8.0\Enum3.dll
+C:\hjb\Enum3\Enum3\bin\Debug\net8.0\Enum3.pdb
+C:\hjb\Enum3\Enum3\obj\Debug\net8.0\Enum3.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Enum3\Enum3\obj\Debug\net8.0\Enum3.AssemblyInfoInputs.cache
+C:\hjb\Enum3\Enum3\obj\Debug\net8.0\Enum3.AssemblyInfo.cs
+C:\hjb\Enum3\Enum3\obj\Debug\net8.0\Enum3.csproj.CoreCompileInputs.cache
+C:\hjb\Enum3\Enum3\obj\Debug\net8.0\Enum3.dll
+C:\hjb\Enum3\Enum3\obj\Debug\net8.0\refint\Enum3.dll
+C:\hjb\Enum3\Enum3\obj\Debug\net8.0\Enum3.pdb
+C:\hjb\Enum3\Enum3\obj\Debug\net8.0\Enum3.genruntimeconfig.cache
+C:\hjb\Enum3\Enum3\obj\Debug\net8.0\ref\Enum3.dll

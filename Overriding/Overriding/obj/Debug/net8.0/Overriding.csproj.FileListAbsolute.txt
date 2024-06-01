@@ -1,0 +1,14 @@
+C:\hjb\Overriding\Overriding\bin\Debug\net8.0\Overriding.exe
+C:\hjb\Overriding\Overriding\bin\Debug\net8.0\Overriding.deps.json
+C:\hjb\Overriding\Overriding\bin\Debug\net8.0\Overriding.runtimeconfig.json
+C:\hjb\Overriding\Overriding\bin\Debug\net8.0\Overriding.dll
+C:\hjb\Overriding\Overriding\bin\Debug\net8.0\Overriding.pdb
+C:\hjb\Overriding\Overriding\obj\Debug\net8.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Overriding\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfoInputs.cache
+C:\hjb\Overriding\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfo.cs
+C:\hjb\Overriding\Overriding\obj\Debug\net8.0\Overriding.csproj.CoreCompileInputs.cache
+C:\hjb\Overriding\Overriding\obj\Debug\net8.0\Overriding.dll
+C:\hjb\Overriding\Overriding\obj\Debug\net8.0\refint\Overriding.dll
+C:\hjb\Overriding\Overriding\obj\Debug\net8.0\Overriding.pdb
+C:\hjb\Overriding\Overriding\obj\Debug\net8.0\Overriding.genruntimeconfig.cache
+C:\hjb\Overriding\Overriding\obj\Debug\net8.0\ref\Overriding.dll

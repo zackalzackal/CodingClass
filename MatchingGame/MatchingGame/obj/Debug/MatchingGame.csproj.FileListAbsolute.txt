@@ -1,0 +1,10 @@
+C:\hjb\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe.config
+C:\hjb\MatchingGame\MatchingGame\bin\Debug\MatchingGame.exe
+C:\hjb\MatchingGame\MatchingGame\bin\Debug\MatchingGame.pdb
+C:\hjb\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.AssemblyReference.cache
+C:\hjb\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Form1.resources
+C:\hjb\MatchingGame\MatchingGame\obj\Debug\MatchingGame.Properties.Resources.resources
+C:\hjb\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.GenerateResource.cache
+C:\hjb\MatchingGame\MatchingGame\obj\Debug\MatchingGame.csproj.CoreCompileInputs.cache
+C:\hjb\MatchingGame\MatchingGame\obj\Debug\MatchingGame.exe
+C:\hjb\MatchingGame\MatchingGame\obj\Debug\MatchingGame.pdb

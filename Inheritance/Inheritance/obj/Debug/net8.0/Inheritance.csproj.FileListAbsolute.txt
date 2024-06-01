@@ -1,0 +1,14 @@
+C:\hjb\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\hjb\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\hjb\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\hjb\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\hjb\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\hjb\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\hjb\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\hjb\Inheritance\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\hjb\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\hjb\Inheritance\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\hjb\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\hjb\Inheritance\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\hjb\Inheritance\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

@@ -1,0 +1,14 @@
+C:\hjb\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.exe
+C:\hjb\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.deps.json
+C:\hjb\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.runtimeconfig.json
+C:\hjb\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.dll
+C:\hjb\MoreOnArray\MoreOnArray\bin\Debug\net8.0\MoreOnArray.pdb
+C:\hjb\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.AssemblyInfoInputs.cache
+C:\hjb\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.AssemblyInfo.cs
+C:\hjb\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.csproj.CoreCompileInputs.cache
+C:\hjb\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.dll
+C:\hjb\MoreOnArray\MoreOnArray\obj\Debug\net8.0\refint\MoreOnArray.dll
+C:\hjb\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.pdb
+C:\hjb\MoreOnArray\MoreOnArray\obj\Debug\net8.0\MoreOnArray.genruntimeconfig.cache
+C:\hjb\MoreOnArray\MoreOnArray\obj\Debug\net8.0\ref\MoreOnArray.dll

@@ -1,0 +1,14 @@
+C:\hjb\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.exe
+C:\hjb\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.deps.json
+C:\hjb\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.runtimeconfig.json
+C:\hjb\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.dll
+C:\hjb\DateTimeExam\DateTimeExam\bin\Debug\net8.0\DateTimeExam.pdb
+C:\hjb\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.AssemblyInfoInputs.cache
+C:\hjb\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.AssemblyInfo.cs
+C:\hjb\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.csproj.CoreCompileInputs.cache
+C:\hjb\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.dll
+C:\hjb\DateTimeExam\DateTimeExam\obj\Debug\net8.0\refint\DateTimeExam.dll
+C:\hjb\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.pdb
+C:\hjb\DateTimeExam\DateTimeExam\obj\Debug\net8.0\DateTimeExam.genruntimeconfig.cache
+C:\hjb\DateTimeExam\DateTimeExam\obj\Debug\net8.0\ref\DateTimeExam.dll

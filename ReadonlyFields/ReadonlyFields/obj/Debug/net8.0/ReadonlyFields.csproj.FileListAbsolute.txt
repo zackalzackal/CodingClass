@@ -1,0 +1,4 @@
+C:\hjb\ReadonlyFields\ReadonlyFields\obj\Debug\net8.0\ReadonlyFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ReadonlyFields\ReadonlyFields\obj\Debug\net8.0\ReadonlyFields.AssemblyInfoInputs.cache
+C:\hjb\ReadonlyFields\ReadonlyFields\obj\Debug\net8.0\ReadonlyFields.AssemblyInfo.cs
+C:\hjb\ReadonlyFields\ReadonlyFields\obj\Debug\net8.0\ReadonlyFields.csproj.CoreCompileInputs.cache

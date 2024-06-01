@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fac새갸미/1.0.0": {
+        "runtime": {
+          "Fac새갸미.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fac새갸미/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
