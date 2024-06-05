@@ -1,0 +1,15 @@
+C:\hjb\Indxer\Indxer\bin\Debug\net8.0\Indxer.exe
+C:\hjb\Indxer\Indxer\bin\Debug\net8.0\Indxer.deps.json
+C:\hjb\Indxer\Indxer\bin\Debug\net8.0\Indxer.runtimeconfig.json
+C:\hjb\Indxer\Indxer\bin\Debug\net8.0\Indxer.dll
+C:\hjb\Indxer\Indxer\bin\Debug\net8.0\Indxer.pdb
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\Indxer.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\Indxer.AssemblyInfoInputs.cache
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\Indxer.AssemblyInfo.cs
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\Indxer.csproj.CoreCompileInputs.cache
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\Indxer.sourcelink.json
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\Indxer.dll
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\refint\Indxer.dll
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\Indxer.pdb
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\Indxer.genruntimeconfig.cache
+C:\hjb\Indxer\Indxer\obj\Debug\net8.0\ref\Indxer.dll

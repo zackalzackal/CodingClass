@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indxer", "Indxer\Indxer.csproj", "{A22D49D0-B52A-4C62-8A60-627B80C4E515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22D49D0-B52A-4C62-8A60-627B80C4E515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22D49D0-B52A-4C62-8A60-627B80C4E515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22D49D0-B52A-4C62-8A60-627B80C4E515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22D49D0-B52A-4C62-8A60-627B80C4E515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661E371C-DEB4-4D1F-A324-4EC1AE5CD823}
+	EndGlobalSection
+EndGlobal
