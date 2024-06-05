@@ -1,0 +1,15 @@
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.AssemblyInfoInputs.cache
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.AssemblyInfo.cs
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.csproj.CoreCompileInputs.cache
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.sourcelink.json
+C:\hjb\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.exe
+C:\hjb\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.deps.json
+C:\hjb\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.runtimeconfig.json
+C:\hjb\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.dll
+C:\hjb\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.pdb
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.dll
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\refint\Hashtable.dll
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.pdb
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.genruntimeconfig.cache
+C:\hjb\Hashtable\Hashtable\obj\Debug\net8.0\ref\Hashtable.dll
