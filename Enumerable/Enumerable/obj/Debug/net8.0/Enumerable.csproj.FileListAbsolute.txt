@@ -1,0 +1,15 @@
+C:\hjb\Enumerable\Enumerable\bin\Debug\net8.0\Enumerable.exe
+C:\hjb\Enumerable\Enumerable\bin\Debug\net8.0\Enumerable.deps.json
+C:\hjb\Enumerable\Enumerable\bin\Debug\net8.0\Enumerable.runtimeconfig.json
+C:\hjb\Enumerable\Enumerable\bin\Debug\net8.0\Enumerable.dll
+C:\hjb\Enumerable\Enumerable\bin\Debug\net8.0\Enumerable.pdb
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\Enumerable.AssemblyInfoInputs.cache
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\Enumerable.AssemblyInfo.cs
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\Enumerable.csproj.CoreCompileInputs.cache
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\Enumerable.sourcelink.json
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\Enumerable.dll
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\refint\Enumerable.dll
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\Enumerable.pdb
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\Enumerable.genruntimeconfig.cache
+C:\hjb\Enumerable\Enumerable\obj\Debug\net8.0\ref\Enumerable.dll
