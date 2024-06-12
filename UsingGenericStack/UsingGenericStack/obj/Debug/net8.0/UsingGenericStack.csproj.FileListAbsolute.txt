@@ -1,0 +1,15 @@
+C:\hjb\UsingGenericStack\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.exe
+C:\hjb\UsingGenericStack\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.deps.json
+C:\hjb\UsingGenericStack\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.runtimeconfig.json
+C:\hjb\UsingGenericStack\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.dll
+C:\hjb\UsingGenericStack\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.pdb
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.AssemblyInfoInputs.cache
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.AssemblyInfo.cs
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.csproj.CoreCompileInputs.cache
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.sourcelink.json
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.dll
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\refint\UsingGenericStack.dll
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.pdb
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.genruntimeconfig.cache
+C:\hjb\UsingGenericStack\UsingGenericStack\obj\Debug\net8.0\ref\UsingGenericStack.dll

@@ -1,0 +1,15 @@
+C:\hjb\UsingGenericQueue\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.exe
+C:\hjb\UsingGenericQueue\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.deps.json
+C:\hjb\UsingGenericQueue\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.runtimeconfig.json
+C:\hjb\UsingGenericQueue\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.dll
+C:\hjb\UsingGenericQueue\UsingGenericQueue\bin\Debug\net8.0\UsingGenericQueue.pdb
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.AssemblyInfoInputs.cache
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.AssemblyInfo.cs
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.csproj.CoreCompileInputs.cache
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.sourcelink.json
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.dll
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\refint\UsingGenericQueue.dll
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.pdb
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\UsingGenericQueue.genruntimeconfig.cache
+C:\hjb\UsingGenericQueue\UsingGenericQueue\obj\Debug\net8.0\ref\UsingGenericQueue.dll

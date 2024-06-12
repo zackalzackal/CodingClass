@@ -1,0 +1,15 @@
+C:\hjb\UsingGenericList\UsingGenericList\bin\Debug\net8.0\UsingGenericList.exe
+C:\hjb\UsingGenericList\UsingGenericList\bin\Debug\net8.0\UsingGenericList.deps.json
+C:\hjb\UsingGenericList\UsingGenericList\bin\Debug\net8.0\UsingGenericList.runtimeconfig.json
+C:\hjb\UsingGenericList\UsingGenericList\bin\Debug\net8.0\UsingGenericList.dll
+C:\hjb\UsingGenericList\UsingGenericList\bin\Debug\net8.0\UsingGenericList.pdb
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\UsingGenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\UsingGenericList.AssemblyInfoInputs.cache
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\UsingGenericList.AssemblyInfo.cs
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\UsingGenericList.csproj.CoreCompileInputs.cache
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\UsingGenericList.sourcelink.json
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\UsingGenericList.dll
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\refint\UsingGenericList.dll
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\UsingGenericList.pdb
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\UsingGenericList.genruntimeconfig.cache
+C:\hjb\UsingGenericList\UsingGenericList\obj\Debug\net8.0\ref\UsingGenericList.dll

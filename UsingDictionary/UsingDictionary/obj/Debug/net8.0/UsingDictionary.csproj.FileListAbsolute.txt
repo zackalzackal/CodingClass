@@ -1,0 +1,15 @@
+C:\hjb\UsingDictionary\UsingDictionary\bin\Debug\net8.0\UsingDictionary.exe
+C:\hjb\UsingDictionary\UsingDictionary\bin\Debug\net8.0\UsingDictionary.deps.json
+C:\hjb\UsingDictionary\UsingDictionary\bin\Debug\net8.0\UsingDictionary.runtimeconfig.json
+C:\hjb\UsingDictionary\UsingDictionary\bin\Debug\net8.0\UsingDictionary.dll
+C:\hjb\UsingDictionary\UsingDictionary\bin\Debug\net8.0\UsingDictionary.pdb
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\UsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\UsingDictionary.AssemblyInfoInputs.cache
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\UsingDictionary.AssemblyInfo.cs
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\UsingDictionary.csproj.CoreCompileInputs.cache
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\UsingDictionary.sourcelink.json
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\UsingDictionary.dll
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\refint\UsingDictionary.dll
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\UsingDictionary.pdb
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\UsingDictionary.genruntimeconfig.cache
+C:\hjb\UsingDictionary\UsingDictionary\obj\Debug\net8.0\ref\UsingDictionary.dll

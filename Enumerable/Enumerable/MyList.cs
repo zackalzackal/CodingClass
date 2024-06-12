@@ -30,7 +30,7 @@ namespace Enumerable
                     Array.Resize<int>(ref array, index+1);
                     Console.WriteLine($"Array Resized : {array.Length}");
                 }
-
+ 
                 array[index] = value;
             }
         }
