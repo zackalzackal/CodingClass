@@ -1,0 +1,15 @@
+C:\hjb\Finally\Finally\bin\Debug\net8.0\Finally.exe
+C:\hjb\Finally\Finally\bin\Debug\net8.0\Finally.deps.json
+C:\hjb\Finally\Finally\bin\Debug\net8.0\Finally.runtimeconfig.json
+C:\hjb\Finally\Finally\bin\Debug\net8.0\Finally.dll
+C:\hjb\Finally\Finally\bin\Debug\net8.0\Finally.pdb
+C:\hjb\Finally\Finally\obj\Debug\net8.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Finally\Finally\obj\Debug\net8.0\Finally.AssemblyInfoInputs.cache
+C:\hjb\Finally\Finally\obj\Debug\net8.0\Finally.AssemblyInfo.cs
+C:\hjb\Finally\Finally\obj\Debug\net8.0\Finally.csproj.CoreCompileInputs.cache
+C:\hjb\Finally\Finally\obj\Debug\net8.0\Finally.sourcelink.json
+C:\hjb\Finally\Finally\obj\Debug\net8.0\Finally.dll
+C:\hjb\Finally\Finally\obj\Debug\net8.0\refint\Finally.dll
+C:\hjb\Finally\Finally\obj\Debug\net8.0\Finally.pdb
+C:\hjb\Finally\Finally\obj\Debug\net8.0\Finally.genruntimeconfig.cache
+C:\hjb\Finally\Finally\obj\Debug\net8.0\ref\Finally.dll

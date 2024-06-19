@@ -1,0 +1,15 @@
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\Trhow.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\Trhow.AssemblyInfoInputs.cache
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\Trhow.AssemblyInfo.cs
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\Trhow.csproj.CoreCompileInputs.cache
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\Trhow.sourcelink.json
+C:\hjb\Trhow\Trhow\bin\Debug\net8.0\Trhow.exe
+C:\hjb\Trhow\Trhow\bin\Debug\net8.0\Trhow.deps.json
+C:\hjb\Trhow\Trhow\bin\Debug\net8.0\Trhow.runtimeconfig.json
+C:\hjb\Trhow\Trhow\bin\Debug\net8.0\Trhow.dll
+C:\hjb\Trhow\Trhow\bin\Debug\net8.0\Trhow.pdb
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\Trhow.dll
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\refint\Trhow.dll
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\Trhow.pdb
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\Trhow.genruntimeconfig.cache
+C:\hjb\Trhow\Trhow\obj\Debug\net8.0\ref\Trhow.dll
