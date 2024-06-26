@@ -1,0 +1,15 @@
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+C:\hjb\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+C:\hjb\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+C:\hjb\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+C:\hjb\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+C:\hjb\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+C:\hjb\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll

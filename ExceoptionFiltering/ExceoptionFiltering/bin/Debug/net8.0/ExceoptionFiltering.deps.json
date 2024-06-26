@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExceoptionFiltering/1.0.0": {
+        "runtime": {
+          "ExceoptionFiltering.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceoptionFiltering/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

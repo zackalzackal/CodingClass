@@ -1,0 +1,15 @@
+C:\hjb\UsingCallback\UsingCallback\bin\Debug\net8.0\UsingCallback.exe
+C:\hjb\UsingCallback\UsingCallback\bin\Debug\net8.0\UsingCallback.deps.json
+C:\hjb\UsingCallback\UsingCallback\bin\Debug\net8.0\UsingCallback.runtimeconfig.json
+C:\hjb\UsingCallback\UsingCallback\bin\Debug\net8.0\UsingCallback.dll
+C:\hjb\UsingCallback\UsingCallback\bin\Debug\net8.0\UsingCallback.pdb
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\UsingCallback.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\UsingCallback.AssemblyInfoInputs.cache
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\UsingCallback.AssemblyInfo.cs
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\UsingCallback.csproj.CoreCompileInputs.cache
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\UsingCallback.sourcelink.json
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\UsingCallback.dll
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\refint\UsingCallback.dll
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\UsingCallback.pdb
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\UsingCallback.genruntimeconfig.cache
+C:\hjb\UsingCallback\UsingCallback\obj\Debug\net8.0\ref\UsingCallback.dll

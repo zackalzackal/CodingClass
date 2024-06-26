@@ -1,0 +1,15 @@
+C:\hjb\StackTrace\StackTrace\bin\Debug\net8.0\StackTrace.exe
+C:\hjb\StackTrace\StackTrace\bin\Debug\net8.0\StackTrace.deps.json
+C:\hjb\StackTrace\StackTrace\bin\Debug\net8.0\StackTrace.runtimeconfig.json
+C:\hjb\StackTrace\StackTrace\bin\Debug\net8.0\StackTrace.dll
+C:\hjb\StackTrace\StackTrace\bin\Debug\net8.0\StackTrace.pdb
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\StackTrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\StackTrace.AssemblyInfoInputs.cache
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\StackTrace.AssemblyInfo.cs
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\StackTrace.csproj.CoreCompileInputs.cache
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\StackTrace.sourcelink.json
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\StackTrace.dll
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\refint\StackTrace.dll
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\StackTrace.pdb
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\StackTrace.genruntimeconfig.cache
+C:\hjb\StackTrace\StackTrace\obj\Debug\net8.0\ref\StackTrace.dll

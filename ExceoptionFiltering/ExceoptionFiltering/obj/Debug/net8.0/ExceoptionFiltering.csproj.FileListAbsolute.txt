@@ -1,0 +1,15 @@
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\bin\Debug\net8.0\ExceoptionFiltering.exe
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\bin\Debug\net8.0\ExceoptionFiltering.deps.json
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\bin\Debug\net8.0\ExceoptionFiltering.runtimeconfig.json
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\bin\Debug\net8.0\ExceoptionFiltering.dll
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\bin\Debug\net8.0\ExceoptionFiltering.pdb
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\ExceoptionFiltering.GeneratedMSBuildEditorConfig.editorconfig
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\ExceoptionFiltering.AssemblyInfoInputs.cache
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\ExceoptionFiltering.AssemblyInfo.cs
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\ExceoptionFiltering.csproj.CoreCompileInputs.cache
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\ExceoptionFiltering.sourcelink.json
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\ExceoptionFiltering.dll
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\refint\ExceoptionFiltering.dll
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\ExceoptionFiltering.pdb
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\ExceoptionFiltering.genruntimeconfig.cache
+C:\hjb\ExceoptionFiltering\ExceoptionFiltering\obj\Debug\net8.0\ref\ExceoptionFiltering.dll
